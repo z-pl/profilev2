@@ -50,3 +50,7 @@ li {
 .socials {
   margin-top: 130px;
 }
+
+.bike-label:hover {
+  color: lightskyblue;
+}
